@@ -222,6 +222,12 @@ width: 79px;
 
 }
 
+.remote{
+margin-left: 15px;
+text-decoration: none;
+color: goldenrod;
+}
+
 .tituloNoCarrinhoDeCompras{
 margin-top: 32px;
 }
